@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-**Authors:** DjDisaster
+**Authors:** DjDisaster<br>
 **Description:** I have to use github for college, therefor this repo exists.
 
 ---
